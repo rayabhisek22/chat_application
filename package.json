@@ -1,0 +1,15 @@
+{
+  "name": "chat_application",
+  "version": "1.0.0",
+  "description": "A Real time chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[C\u001b[Cs\u001bapp\u001b[3~\u001b[3~\u001b[B"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[A\u001b[C\u001b[C\u001b\u001b[B\u001b[B"
+  },
+  "author": "rayabhisek22",
+  "license": "ISC"
+}
